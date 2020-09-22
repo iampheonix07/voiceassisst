@@ -1,3 +1,13 @@
+/*Hello World:
+Iam bascially a begineer at the python development, who just
+graduated from my college. I developed a personal project of 
+Personal Assisstant, i got this inspriation from my favourite
+movie charecter iron man's assisstant Jarvis. I hope you will
+like it
+
+With regards,
+Anvith*/
+
 import pyttsx3
 import datetime
 import  speech_recognition as sr
